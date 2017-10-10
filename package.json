@@ -1,0 +1,25 @@
+{
+  "name": "miox-cli",
+  "version": "3.0.1",
+  "description": "miox cli tool",
+  "bin": {
+    "miox": "./bin/index.js"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "axios": "^0.16.2",
+    "chalk": "^2.1.0",
+    "cli-spinners": "^1.1.0",
+    "cmdu": "^2.0.1",
+    "inquirer": "^3.3.0",
+    "ora": "^1.3.0",
+    "request": "^2.83.0",
+    "request-progress": "^3.0.0",
+    "unzip": "^0.1.11"
+  }
+}
