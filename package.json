@@ -11,6 +11,10 @@
     "package.json",
     "README.md"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:51nb/miox-cli.git"
+  },
   "dependencies": {
     "axios": "^0.16.2",
     "chalk": "^2.1.0",
