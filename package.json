@@ -1,6 +1,6 @@
 {
   "name": "miox-cli",
-  "version": "3.0.2",
+  "version": "3.0.4",
   "description": "miox cli tool",
   "bin": {
     "miox": "./bin/index.js"
